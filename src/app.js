@@ -2,6 +2,7 @@ const path = require('path') //Core module, no need to be installed
 const express = require('express') //npm module, it has to be installed
 const hbs = require('hbs')
 
+//Prueba git
 
 const app = express()
 
